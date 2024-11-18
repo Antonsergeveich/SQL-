@@ -29,4 +29,5 @@ void main()
 	{
 		cout << year << "\tгод не високостный" << endl;
 	}
+
 }
